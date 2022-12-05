@@ -1,0 +1,8 @@
+@mastersthesis{mosquera2022diseno,
+  title={Dise{\~n}o e implementaci{\'o}n de un Prototipo Iot para el monitoreo de par{\'a}metros ambientales aplicados al cultivo de arroz utilizando ESP32 y Thingspeak},
+  author={Mosquera Mel{\'e}ndrez, Leandro Mauricio and Cevallos Rojas, C{\'e}sar Danilo},
+  type={{B.S.} thesis},
+  year={2022}
+}
+
+url = http://dspace.ups.edu.ec/handle/123456789/22884

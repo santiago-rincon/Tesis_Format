@@ -1,0 +1,8 @@
+@article{berrios2022diseno,
+  title={Dise{\~n}o de un sistema IOT para el monitoreo y control del cultivo de lechugas en un invernadero},
+  author={Berrios G{\'o}mez, Sebasti{\'a}n},
+  year={2022},
+  publisher={Universidad Privada de Tacna}
+}
+
+http://hdl.handle.net/20.500.12969/2362

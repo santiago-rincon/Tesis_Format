@@ -1,0 +1,8 @@
+@article{castrillon2021monitoreo,
+  title={Monitoreo de temperatura y humedad relativa en un laboratorio de experimentaci{\'o}n de cannabis usando tecnolog{\'\i}as de IOT},
+  author={Castrill{\'o}n-G{\'o}mez, Maria Camila and Osorio-Rodr{\'\i}guez, Cristian Camilo},
+  year={2021},
+  publisher={Ingenier{\'\i}a}
+}
+
+https://repositorio.uco.edu.co/jspui/handle/20.500.13064/1408
