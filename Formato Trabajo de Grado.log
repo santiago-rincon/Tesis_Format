@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.12)  29 NOV 2022 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.12)  8 DEC 2022 17:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -619,8 +619,8 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count319
 \l__pdf_internal_box=\box112
 ) (Formato Trabajo de Grado.aux
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
 )
 \openout1 = `"Formato Trabajo de Grado.aux"'.
 
@@ -713,117 +713,119 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count326
- (Cod/portada.tex
-[1
 
-{C:/Users/Usuario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
 (Cod/estado del arte.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
 
-LaTeX Warning: Reference `objetivos' on page 2 undefined on input line 4.
+LaTeX Warning: Reference `objetivos' on page 1 undefined on input line 4.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<Imagenes//art1.png, id=18, 832.61063pt x 435.12563pt>
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+<Imagenes//art1.png, id=23, 832.61063pt x 435.12563pt>
 File: Imagenes//art1.png Graphic file (type png)
 <use Imagenes//art1.png>
-Package pdftex.def Info: Imagenes//art1.png  used on input line 9.
+Package pdftex.def Info: Imagenes//art1.png  used on input line 13.
 (pdftex.def)             Requested size: 402.8705pt x 210.54434pt.
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
+{C:/Users/Usuario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
-[2 <./Imagenes//art1.png>]
-<Imagenes//art2-1.png, id=29, 936.49875pt x 446.41782pt>
-File: Imagenes//art2-1.png Graphic file (type png)
-<use Imagenes//art2-1.png>
-Package pdftex.def Info: Imagenes//art2-1.png  used on input line 18.
-(pdftex.def)             Requested size: 402.8705pt x 192.04446pt.
-<Imagenes//inter-art2.png, id=33, 957.5775pt x 437.38406pt>
-File: Imagenes//inter-art2.png Graphic file (type png)
-<use Imagenes//inter-art2.png>
-Package pdftex.def Info: Imagenes//inter-art2.png  used on input line 25.
-(pdftex.def)             Requested size: 402.8705pt x 184.01372pt.
- [3 <./Imagenes//art2-1.png>]
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 29.
-<Imagenes//sentilio.png, id=43, 802.49812pt x 377.91188pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+<Imagenes//sentilio.png, id=47, 802.49812pt x 377.91188pt>
 File: Imagenes//sentilio.png Graphic file (type png)
 <use Imagenes//sentilio.png>
-Package pdftex.def Info: Imagenes//sentilio.png  used on input line 32.
-(pdftex.def)             Requested size: 441.37532pt x 207.85217pt.
- [4 <./Imagenes//inter-art2.png>]
-<Imagenes//thinger.png, id=52, 817.55438pt x 357.58594pt>
-File: Imagenes//thinger.png Graphic file (type png)
-<use Imagenes//thinger.png>
-Package pdftex.def Info: Imagenes//thinger.png  used on input line 39.
-(pdftex.def)             Requested size: 402.8705pt x 176.21169pt.
- [5 <./Imagenes//sentilio.png>]
-<Imagenes//art5.png, id=65, 620.3175pt x 441.90094pt>
-File: Imagenes//art5.png Graphic file (type png)
-<use Imagenes//art5.png>
-Package pdftex.def Info: Imagenes//art5.png  used on input line 50.
-(pdftex.def)             Requested size: 402.8705pt x 286.9962pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--53
+Package pdftex.def Info: Imagenes//sentilio.png  used on input line 24.
+(pdftex.def)             Requested size: 402.8705pt x 189.72241pt.
+[2 <./Imagenes//art1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
  []
 
-[6 <./Imagenes//thinger.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+[3 <./Imagenes//sentilio.png>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
 
 
 (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
 
 
 (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Imagenes//dash.png, id=75, 659.46375pt x 578.16pt>
-File: Imagenes//dash.png Graphic file (type png)
-<use Imagenes//dash.png>
-Package pdftex.def Info: Imagenes//dash.png  used on input line 58.
-(pdftex.def)             Requested size: 402.8705pt x 353.2064pt.
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
-[7 <./Imagenes//art5.png>] [8 <./Imagenes//dash.png>] [9])
-(Cod/bibliografia.tex (Formato Trabajo de Grado.bbl) [10])
+ []
+
+[4]
+<Imagenes//art5.png, id=73, 620.3175pt x 441.90094pt>
+File: Imagenes//art5.png Graphic file (type png)
+<use Imagenes//art5.png>
+Package pdftex.def Info: Imagenes//art5.png  used on input line 47.
+(pdftex.def)             Requested size: 402.8705pt x 286.9962pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[5 <./Imagenes//art5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+LaTeX Warning: Reference `objetivos' on page 6 undefined on input line 56.
+
+[6]) (Cod/bibliografia.tex (Formato Trabajo de Grado.bbl [7]) [8])
 (Formato Trabajo de Grado.aux
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
 )
 
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `"Formato Trabajo de Grado".out' has not chan
 ged.
-(rerunfilecheck)             Checksum: 76BE1DA8D169F0F5838946672926D684;237.
+(rerunfilecheck)             Checksum: 650D70D1087A9FA84F766E2778E65DDA;237.
  ) 
 Here is how much of TeX's memory you used:
- 15608 strings out of 475380
- 255621 string characters out of 2775827
- 611554 words of memory out of 3000000
- 36692 multiletter control sequences out of 15000+600000
- 485824 words of font info for 66 fonts, out of 8000000 for 9000
+ 15573 strings out of 475380
+ 254670 string characters out of 2775827
+ 619427 words of memory out of 3000000
+ 36657 multiletter control sequences out of 15000+600000
+ 487036 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,8n,80p,2228b,476s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 77i,8n,80p,1777b,601s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<
-C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.
-pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uh
-vr8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvet
-ic/uhvro8a.pfb>
-Output written on "Formato Trabajo de Grado.pdf" (10 pages, 1797174 bytes).
+C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helve
+tic/uhvb8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
+helvetic/uhvr8a.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1
+/urw/helvetic/uhvro8a.pfb>
+Output written on "Formato Trabajo de Grado.pdf" (8 pages, 348125 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 52 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 147 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 32 words of extra memory for PDF output out of 10000 (max. 10000000)
 
